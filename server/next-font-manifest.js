@@ -1,1 +1,0 @@
-self.__NEXT_FONT_MANIFEST="{\"pages\":{},\"app\":{\"/Users/enolic/Library/Mobile Documents/com~apple~CloudDocs/Projects/konstantinos-gialantzis.github.io/app/layout\":[\"static/media/e4af272ccee01ff0-s.p.woff2\",\"static/media/162bf645eb375add-s.p.ttf\"]},\"appUsingSizeAdjust\":true,\"pagesUsingSizeAdjust\":false}"
